@@ -1,0 +1,120 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+NAICS.annotation.id,Id
+YEAR.id,Year
+EMP,Number of employees
+EMP_S,Relative standard error for estimate of number of employees (%)
+PAYANN,"Annual payroll ($1,000)"
+PAYANN_S,"Relative standard error for estimate of annual payroll ($1,000)"
+BENEFIT,"Total fringe benefits ($1,000)"
+BENEFIT_S,Relative standard error for estimate of total fringe benefits (%)
+BENHEA,"Employer's cost for health insurance ($1,000)"
+BENHEA_S,Relative standard error for estimate of employer's cost for health insurance (%)
+BENPEB,"Employer's cost for defined benefit pension plans ($1,000)"
+BENPEB_S,Relative standard error for estimate of employer's cost for defined benefit pension plans (%)
+BENPEC,"Employer's cost for defined contribution plans ($1,000)"
+BENPEC_S,Relative standard error for estimate of employer's cost for defined contribution plans (%)
+BENOTH,"Employer's cost for other fringe benefits ($1,000)"
+BENOTH_S,Relative standard error for estimate of employer's cost for other fringe benefits (%)
+EMPAVPW,Production workers average for year
+EMPAVPW_S,Relative standard error for estimate of production workers average for year (%)
+HOURS,"Production workers annual hours (1,000)"
+HOURS_S,Relative standard error for estimate of production workers annual hours (%)
+PAYANPW,"Production workers annual wages ($1,000)"
+PAYANPW_S,Relative standard error for estimate of production workers annual wages (%)
+CSTMTOT,"Total cost of materials ($1,000)"
+CSTMTOT_S,Relative standard error for estimate of total cost of materials (%)
+CSTMPRT,"Cost of materials, parts, containers, packaging, etc. used ($1,000)"
+CSTMPRT_S,"Relative standard error for estimate of cost of materials, parts, containers, packaging, etc. used  (%)"
+CSTRSL,"Cost of resales ($1,000)"
+CSTRSL_S,Relative standard error for estimate of cost of resales (%)
+CSTFU,"Cost of purchased fuels consumed ($1,000)"
+CSTFU_S,Relative standard error for estimate of cost of purchased fuels (%)
+CSTELEC,"Cost of purchased electricity ($1,000)"
+CSTELEC_S,Relative standard error for estimate of cost of purchased electricity (%)
+CSTCNT,"Cost of contract work ($1,000)"
+CSTCNT_S,Relative standard error for estimate of cost of contract work (%)
+ELECPCH,"Quantity of electricity purchased for heat and power (1,000 kWh)"
+ELECPCH_S,Relative standard error for estimate of quantity of electricity purchased for heat and power (%)
+ELECGEN,"Quantity of generated electricity (1,000 kWh)"
+ELECGEN_S,Relative standard error for estimate of quantity of generated electricity (%)
+ELECSLD,"Quantity of electricity sold or transferred (1,000 kWh) "
+ELECSLD_S,Relative standard error for estimate of quantity of electricity sold or transferred (%)
+RCPTOT,"Total value of shipments and receipts for services ($1,000)"
+RCPTOT_S,Relative standard error for estimate of total value of shipments and receipts for services (%)
+RCPTPLM,"Value of primary and secondary product shipments and receipts for services made in industry ($1,000) "
+RCPTPLM_S,Relative standard error for estimate of value of primary and secondary product shipments and receipts for services made in industry (%)
+RCPTRAN,"Value of interplant transfers for shipments and receipts for services ($1,000)"
+RCPTRAN_S,Relative standard error for estimate of value of interplant transfers for shipments and receipts for services (%)
+MSCTOT,"Total miscellaneous receipts ($1,000)"
+MSCTOT_S,Relative standard error for estimate of total miscellaneous receipts (%)
+MSCRSLTT,"Value of resales ($1,000)"
+MSCRSLTT_S,Relative standard error for estimate of value of resales (%)
+MSCCNTTT,"Contract receipts ($1,000)"
+MSCCNTTT_S,Relative standard error for estimate of contract receipts (%)
+MSCOTH,"Other miscellaneous receipts ($1,000)"
+MSCOTH_S,Relative standard error for estimate of other miscellaneous receipts (%)
+VALADD,"Value added ($1,000)"
+VALADD_S,Relative standard error for estimate of value added (%)
+INVTOTB,"Total inventories, beginning of year ($1,000) "
+INVTOTB_S,"Relative standard error for estimate of total inventories, beginning of year (%)"
+INVFINB,"Finished goods inventories, beginning of year ($1,000)"
+INVFINB_S,"Relative standard error for estimate of finished goods inventories, beginning of year (%)"
+INVWIPB,"Work-in-process inventories, beginning of year ($1,000) "
+INVWIPB_S,"Relative standard error for estimate of work-in-process inventories, beginning of year (%)"
+INVMATB,"Materials and supplies inventories, beginning of year ($1,000) "
+INVMATB_S,"Relative standard error for estimate of materials and supplies inventories, beginning of year (%)"
+INVTOTE,"Total inventories, end of year ($1,000)"
+INVTOTE_S,"Relative standard error for estimate of total inventories, end of year (%)"
+INVFINE,"Finished goods inventories, end of year ($1,000)"
+INVFINE_S,"Relative standard error for estimate of finished goods inventories, end of year (%)"
+INVWIPE,"Work-in-process inventories, end of year ($1,000)"
+INVWIPE_S,"Relative standard error for estimate of work-in-process inventories, end of year (%)"
+INVMATE,"Materials and supplies inventories, end of year ($1,000)"
+INVMATE_S,"Relative standard error for estimate of materials and supplies inventories, end of year (%)"
+CEXTOT,"Total capital expenditures (new and used) ($1,000)"
+CEXTOT_S,Relative standard error of total capital expenditures (new and used) (%)
+CEXBLD,"Capital expenditures on buildings and other structures (new and used) ($1,000)"
+CEXBLD_S,Relative standard error of buildings and other structures (new and used) (%)
+CEXMCH,"Capital expenditures on machinery and equipment (new and used) ($1,000)"
+CEXMCH_S,Relative standard error of machinery and equipment (new and used) (%)
+CEXMCHA,"Capital expenditures on automobiles, trucks, etc. for highway use ($1,000)"
+CEXMCHA_S,"Relative standard error of automobiles, trucks, etc. for highway use (%)"
+CEXMCHC,"Capital expenditures on computers and peripheral data processing equipment ($1,000)"
+CEXMCHC_S,Relative standard error of computers and peripheral data processing equipment (%)
+CEXMCHO,"Capital expenditures on all other machinery and equipment ($1,000)"
+CEXMCHO_S,Relative standard error of all other expenditures for machinery and equipment (%)
+RPTOT,"Total rental payments or lease payments ($1,000) "
+RPTOT_S,Relative standard error for estimate of total rental payments or lease payments (%)
+RPBLD,"Rental payments or lease payments for buildings and other structures ($1,000)"
+RPBLD_S,Relative standard error for estimate of rental payments or lease payments for buildings and other structures (%)
+RPMCH,"Rental payments or lease payments for machinery and equipment rentals ($1,000)"
+RPMCH_S,Relative standard error for estimate of rental payments or lease payments for machinery and equipment rentals (%)
+PCHTT,"Total other operating expenses ($1,000)"
+PCHTT_S,Relative standard error for estimate of total other operating expenses (%)
+PCHTEMP,"Temporary staff and leased employee expenses ($1,000)"
+PCHTEMP_S,Relative standard error for estimate of temporary staff and leased employee expenses (%)
+PCHCMPQ,"Expensed computer hardware and other equipment ($1,000)"
+PCHCMPQ_S,Relative standard error for estimate of expensed computer hardware and other equipment (%)
+PCHEXSO,"Expensed purchases of software ($1,000)"
+PCHEXSO_S,Relative standard error for estimate of expensed purchases of software (%)
+PCHDAPR,"Data processing and other purchased computer services ($1,000)"
+PCHDAPR_S,Relative standard error for estimate of data processing and other purchased computer services (%)
+PCHCSVC,"Communication services ($1,000)"
+PCHCSVC_S,Relative standard error for estimate of communication services (%)
+PCHRPR,"Repair and maintenance services of buildings and/or machinery ($1,000)"
+PCHRPR_S,Relative standard error for estimate of repair and maintenance services of buildings and/or machinery (%)
+PCHRFUS,"Refuse removal (including hazardous waste) services ($1,000) "
+PCHRFUS_S,Relative standard error for estimate of refuse removal (including hazardous waste) services (%)
+PCHADVT,"Advertising and promotional services ($1,000) "
+PCHADVT_S,Relative standard error for estimate of advertising and promotional services (%)
+PCHPRTE,"Purchased professional and technical services ($1,000)"
+PCHPRTE_S,Relative standard error for estimate of purchased professional and technical services (%)
+PCHTAX,"Taxes and license fees ($1,000)"
+PCHTAX_S,Relative standard error for estimate of taxes and license fees (%)
+PCHOEXP,"All other operating expenses ($1,000)"
+PCHOEXP_S,Relative standard error for estimate of all other operating expenses (%)

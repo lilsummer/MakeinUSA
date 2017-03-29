@@ -1,0 +1,59 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,NAICS-based
+NAICS.display-label,Meaning of NAICS-based
+NAICS.annotation.id,Id
+YEAR.id,Year
+EMPSMAO,Number of employees
+EMPSMAO_S,Relative standard error of number of employees
+EMPAVPW,"Production workers, average per year"
+PAYABENT,"Total compensation ($1,000)"
+PAYANN,"Annual payroll ($1,000)"
+BENEFIT,Total fringe benefits
+BENEFIT_S,Relative standard error of total fringe benefits (percent)
+PAYANPW,"Production workers wages ($1,000)"
+HRSTOTM,"Production workers hours (1,000)"
+CSTMTOT,"Total cost of materials ($1,000)"
+CSTMTOT_S,"Relative standard error of total cost of materials ($1,000)"
+CSTMPRT,"Materials, parts, containers, packaging, etc. used ($1,000)"
+CSTRSL,"Cost of resales ($1,000)"
+CSTCNT,"Contract work ($1,000)"
+CSTFU,"Purchased fuels consumed ($1,000)"
+CSTFU_S,Relative standard error of estimate for cost of purchased fuels (percent)
+FUELECT,"Cost of purchased fuels and electric energy ($1,000)"
+ELECPCH,"Quantity of electricity purchased for heat and power (1,000 kWh)"
+CSTELEC,"Purchased electricity ($1,000)"
+CSTELEC_S,Relative standard error of estimate for cost of electricity purchased for heat and power (percent)
+ELECGEN,"Quantity of generated electricity (1,000 kWh)"
+ELECSLD,"Quantity of electricity sold or transferred (1,000 kWh)"
+VALADDM,"Value added ($1,000)"
+VALADDM_S,Relative standard error of value added
+RCPTOT,"Total value of shipments ($1,000)"
+RCPTOT_S,Relative standard error of estimate for total value of shipments (percent)
+RCPTPLM,"Value of product shipments ($1,000)"
+MSCTOT,"Total miscellaneous receipts ($1,000)"
+MSCRSLTT,"Value of resales ($1,000)"
+MSCCNTTT,"Contract receipts ($1,000)"
+MSCOTH,"Other miscellaneous receipts ($1,000)"
+RCPTRAN,"Value of interplant transfers ($1,000)"
+INVTOTE,"Total inventories, end of year ($1,000)"
+INVTOTE_S,Relative standard error of estimate for total end of year inventories (percent)
+INVFINE,"Finished goods inventories, end of year ($1,000)"
+INVFINE_S,Relative standard error of estimate for EOY finished products inventories (percent)
+INVWIPE,"Work-in-process inventories, end-of-year  ($1,000)"
+INVWIPE_S,Relative standard error of estimate for EOY work-in-process inventories (percent)
+INVMATE,"Materials and supplies inventories, end of year ($1,000)"
+INVMATE_S,"Relative standard error of estimate for EOY materials, supplies, fuels, etc. inventories (percent)"
+INVTOTB,"Total inventories, beginning of year ($1,000)"
+INVFINB,"Finished goods inventories, beginning of year ($1,000)"
+INVWIPB,"Work-in-process inventories, beginning of year ($1,000)"
+INVMATB,"Materials and supplies inventories, beginning of year ($1,000)"
+CEXTOT,"Total capital expenditures (new and used) ($1,000)"
+CEXTOT_S,Relative standard error of estimate of total capital expenditures (new and used)
+CEXBLD,"Buildings and other structures (new and used) ($1,000)"
+CEXMCH,"Capital expenditures on machinery and equipment (new and used) ($1,000)"
+CEXMCHA,"Capital expenditures on automobiles, trucks, etc. for highway use ($1,000)"
+CEXMCHC,"Capital expenditures on computers and peripheral data processing equipment ($1,000)"
+CEXMCHO,"Capital expenditures on all other machinery and equipment ($1,000)"

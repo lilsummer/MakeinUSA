@@ -1,0 +1,56 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+NAICS.annotation.id,Id
+YEAR.id,Year
+BENEFIT,"Total fringe benefits ($1,000)"
+BENEFIT_S,Relative standard error for estimate of total fringe benefits (%)
+CSTMTOT,"Total cost of materials ($1,000)"
+CSTMTOT_S,Relative standard error for estimate of total cost of materials (%)
+CSTMPRT,"Cost of materials, parts, containers, packaging, etc. used ($1,000)"
+CSTMPRT_S,"Relative standard error for estimate of cost of materials, parts, containers, packaging, etc. used  (%)"
+CSTRSL,"Cost of resales ($1,000)"
+CSTRSL_S,Relative standard error for estimate of cost of resales (%)
+CSTFU,"Cost of purchased fuels consumed ($1,000)"
+CSTFU_S,Relative standard error for estimate of cost of purchased fuels (%)
+CSTELEC,"Cost of purchased electricity ($1,000)"
+CSTELEC_S,Relative standard error for estimate of cost of purchased electricity (%)
+CSTCNT,"Cost of contract work ($1,000)"
+CSTCNT_S,Relative standard error for estimate of cost of contract work (%)
+ELECPCH,"Quantity of electricity purchased for heat and power (1,000 kWh)"
+ELECPCH_S,Relative standard error for estimate of quantity of electricity purchased for heat and power (%)
+ELECGEN,"Quantity of generated electricity (1,000 kWh)"
+ELECGEN_S,Relative standard error for estimate of quantity of generated electricity (%)
+ELECSLD,"Quantity of electricity sold or transferred (1,000 kWh)"
+ELECSLD_S,Relative standard error for estimate of quantity of electricity sold or transferred (%)
+INVTOTB,"Total inventories, beginning of year ($1,000)"
+INVTOTB_S,"Relative standard error for estimate of total inventories, beginning of year (%)"
+INVFINB,"Finished goods inventories, beginning of year ($1,000)"
+INVFINB_S,"Relative standard error for estimate of finished goods inventories, beginning of year (%)"
+INVWIPB,"Work-in-process inventories, beginning of year ($1,000)"
+INVWIPB_S,"Relative standard error for estimate of work-in-process inventories, beginning of year (%)"
+INVMATB,"Materials and supplies inventories, beginning of year ($1,000)"
+INVMATB_S,"Relative standard error for estimate of materials and supplies inventories, beginning of year (%)"
+INVTOTE,"Total inventories, end of year ($1,000)"
+INVTOTE_S,"Relative standard error for estimate of total inventories, end of year (%)"
+INVFINE,"Finished goods inventories, end of year ($1,000)"
+INVFINE_S,"Relative standard error for estimate of finished goods inventories, end of year (%)"
+INVWIPE,"Work-in-process inventories, end of year ($1,000)"
+INVWIPE_S,"Relative standard error for estimate of work-in-process inventories, end of year (%)"
+INVMATE,"Materials and supplies inventories, end of year ($1,000)"
+INVMATE_S,"Relative standard error for estimate of materials and supplies inventories, end of year (%)"
+CEXTOT,"Total capital expenditures ($1,000)"
+CEXTOT_S,Relative standard error for estimate of total capital expenditures (%)
+CEXBLD,"Capital expenditures for buildings and other structures ($1,000)"
+CEXBLD_S,Relative standard error for estimate of capital expenditures for buildings and other structures (%)
+CEXMCH,"Capital expenditures for machinery and equipment ($1,000)"
+CEXMCH_S,Relative standard error for estimate of capital expenditures for machinery and equipment (%)
+CEXMCHA,"Capital expenditures for automobiles, trucks, etc. for highway use ($1,000)"
+CEXMCHA_S,"Relative standard error for estimate of capital expenditures for automobiles, trucks, etc. for highway use (%)"
+CEXMCHC,"Capital expenditures for computers and peripheral data processing equipment ($1,000)"
+CEXMCHC_S,Relative standard error for estimate of capital expenditures for computers and peripheral data processing equipment (%)
+CEXMCHO,"Capital expenditures for all other machinery and equipment ($1,000)"
+CEXMCHO_S,Relative standard error for estimate of capital expenditures for all other machinery and equipment (%)
